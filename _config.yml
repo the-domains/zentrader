@@ -6,9 +6,9 @@ color:
   saturation: 0.05372464191168547
   rhythmicContrast: 0.6170666012912989
   brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: zentrader
