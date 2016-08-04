@@ -1,0 +1,14 @@
+layout_spectrum: 0.5462343171238899
+typography_spectrum: 0.672310755122453
+color:
+  brandStrength: 0.7597760756034404
+  lightness: 0.7591711515560746
+  saturation: 0.05372464191168547
+  rhythmicContrast: 0.6170666012912989
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: zentrader
